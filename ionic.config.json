@@ -1,0 +1,7 @@
+{
+  "name": "postED_Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
